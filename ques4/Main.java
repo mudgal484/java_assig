@@ -8,9 +8,9 @@ public class Main {
 		// TODO Auto-generated method stub
 HashMap<Employee,Double> mp = new HashMap<Employee,Double>();
 		
-		Employee e1 = new Employee("Ram",37,"Software Engineer",780000);
-		Employee e2 = new Employee("Sham",38,"Project Engineer",790000);
-		Employee e3 = new Employee("Bharat",39,"Devops Engineer",800000);
+		Employee e1 = new Employee("Ram",37,"Cyber Security Analyst",780000);
+		Employee e2 = new Employee("Sham",38,"Penetration Tester",790000);
+		Employee e3 = new Employee("Bharat",39,"Information Security Lead",800000);
 		
 		mp.put(e1,e1.salary);
 		mp.put(e2,e2.salary);
