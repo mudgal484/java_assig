@@ -25,13 +25,13 @@ public class LambdaExpression {
 			return str.toString();
 		};
 		
-		System.out.println(cl.concat("Mayank","Kumar"));
+		System.out.println(cl.concat("Ram","Raghav"));
 		
 		UpperCaseLambda ul = (a)->{
 			return a.toUpperCase();
 		};
 		
-		System.out.println(ul.Upper("Mayank"));
+		System.out.println(ul.Upper("Ram"));
 		
 	}
 
